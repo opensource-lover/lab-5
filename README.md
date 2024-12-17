@@ -1,6 +1,13 @@
+blahblahblah
+blahblahblah
+blahblahblah
+blahblahblah
+blahblahblah
+blahblahblah
+blahblahblah
 Part I: Fundamentals
 Part II: How to Prove Conditional Statements
-Part III: More on Proof
+blahblahblah
 Part IV: Relations, Functions and Cardinality
   	
 
